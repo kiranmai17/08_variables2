@@ -1,6 +1,6 @@
 '''
-DATE=27th oct 2022
-DAY= thursday
+DATE=28th oct 2022
+DAY= friday
 TOPIC=variables 
 AUTHOR= kiranmai
 '''
